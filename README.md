@@ -2,7 +2,18 @@
 
 
 ## Overview
-This project aims to detect PPE safety kits (Personal Protective Equipment) using YOLO (You Only Look Once) object detection algorithm. The model can detect various types of  equipment including 'Hardhat', 'Mask', 'NO-Hardhat', 'NO-Mask', 'NO-Safety Vest', 'Person', 'Safety Cone','Safety Vest', 'machinery', 'vehicle' .The target audience for this project includes individuals or organizations who want to ensure the safety of their employees or people working in hazardous environments.
+This project focuses on detecting Personal Protective Equipment (PPE) using the powerful YOLO (You Only Look Once) object detection algorithm. The model is capable of identifying various safety-related equipment and situations, including:
+Hardhat
+Mask
+NO-Hardhat
+NO-Mask
+NO-Safety Vest
+Person
+Safety Cone
+Safety Vest
+Machinery
+Vehicle
+The primary goal of this project is to enhance workplace safety by ensuring that individuals adhere to safety protocols in hazardous environments. This tool is ideal for organizations and individuals looking to monitor and enforce safety standards for employees, contractors, or visitors in industrial, construction, or other high-risk areas. By leveraging cutting-edge object detection techniques, this project empowers users to maintain a safer working environment efficiently and effectively.
 
 
 ## Dataset
